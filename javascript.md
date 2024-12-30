@@ -24,3 +24,6 @@ html->js.
 ->in  var redeclear reassign.
 ->in let reassign.
 ->in const neither redeclear nor reassign.
+Q1.wap to print area of circle.
+Q2.wap to print square of any number.
+Q3.wap swap two values using third variable.
