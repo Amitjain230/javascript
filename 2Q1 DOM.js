@@ -1,4 +1,5 @@
 //DOM is the document object model.
+//if we can change 
 //By the means of DOM we can change in html & css.
 //Every element is called node in dom.
 //content is called text node in Dom.
@@ -14,8 +15,8 @@
 // document.write we can write tags.
 //For more than one class we can write getelementsbyclassname(). It returns multiple node list in the formate of array.
 //Class name and tags return node list.
-//In (.innerHtml) we can apply changes in element and we can pass tags in our content.
-// textcontent print only content with tags.
+//In (.innerHtml) we can apply changes in element and we can pass tags in our content.we can change html content.
+// textcontent print only content with tags.We can change text content only.
 let h = document.getElementsByClassName("head")
 console.log(h)
 
