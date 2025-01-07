@@ -7,5 +7,5 @@ function red(colorr){
 
 function dark(){
     let para=document.getElementById('para')
-    para.dark.add('')
+    para.classList.add('drk')
 }
