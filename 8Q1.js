@@ -5,3 +5,4 @@ function formdata(){
     head.innerHTML=num1+num2
     return false
 }
+//
