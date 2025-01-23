@@ -1,4 +1,5 @@
-//Events are the 
+//Events are the action perform by the user.
+//variable is a cointaners to store the value.
 //Event is used to call the function.(on click = one click function call.)
 //if we click the button the event fires every time.
 //ondblclick=("function") click doble time for alert.

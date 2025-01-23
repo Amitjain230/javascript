@@ -11,6 +11,8 @@
 //an argument is the value passed to a function, while a function is a block of code that performs operations on those values.
 //function kae liyae argument as a input kaam krta ha.
 //Argument work as the input of the function.
+//function is the block of code,set of 
+
 function add(){
     console.log("Hello")
 }

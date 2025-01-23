@@ -21,9 +21,10 @@ html->js.
 1.const.
 2.var.
 3.let.
-->in  var redeclear reassign.
-->in let reassign.
-->in const neither redeclear nor reassign.
+->in  var redeclear reassign,global scope.
+->in let reassign,local scope.
+->in const neither redeclear nor reassign,local scope.
+loop are of 6 type.()
 Q1.wap to print area of circle.
 Q2.wap to print square of any number.
 Q3.wap swap two values using third variable.
