@@ -1,0 +1,15 @@
+body{
+    background: rgb(43,15,62);
+    background: linear-gradient(32deg, rgba(43,15,62,1) -7%, rgba(23,120,126,1) 44%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 1000px;
+}
+#name,#contact,#add,#roll{
+    border-radius: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.sum{
+    border-radius: 10px;
+}
