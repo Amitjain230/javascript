@@ -24,4 +24,5 @@ function fun(){
     }
 }
 //JSON.stringify=>it convrt object into string.
-//JSON.parse=>string to obect  OR convrt string to given data.
+//JSON.parse=>string to object  OR convert string to given data.
+//jis formate mae data datae usi mae retreive kartae ha.

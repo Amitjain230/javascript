@@ -10,3 +10,4 @@ g.style.padding="50px"
 let y=document.getElementById('imga')
 y.src="pushpa.jpeg"
 //Europian computer manufacture association.(ECMA)
+//if we change in style it came in camel case.

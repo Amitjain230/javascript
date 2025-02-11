@@ -1,3 +1,6 @@
+
+//Europian computer manufacture association.(ECMA)
+//if we change in style it came in camel case.
 //arrow function->it is the function(one line of function.)
 //Callback function(in the function argument we can pass function called callback function),
 //Array of object is used to store multiple data of an data.
